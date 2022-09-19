@@ -7,7 +7,7 @@
 
 -  **Working :** PaddlePaddle
 -  **Languages :** Python, C++, C#.
--  **Skills :** Computer Vision, Machine Learning, KD based Slim.
+-  **Skills :** Computer Vision, Machine Learning, Model Compression.
 
 
 <p align="center">
